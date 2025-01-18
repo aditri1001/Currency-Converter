@@ -51,6 +51,10 @@ A **React Native** application to convert Indian Rupee (INR) into multiple curre
    # or for iOS
    npx react-native run-ios
    ```
+
+## 🎨 Screenshots
+![currency converter](https://github.com/user-attachments/assets/fbc268b0-e981-4ea2-b52d-13ce24c4aa6c)
+
    
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the functionality or UI of this project.
